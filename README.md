@@ -1,1 +1,2 @@
-# visualization-and-modeling
+#  Кривошапкина Айталина #
+## K3241 ##
